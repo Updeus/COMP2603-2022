@@ -9,3 +9,7 @@ Introduction to the Java object oriented language and the BlueJ editor.
 ## Week 2 (January 24th and 28th)
 
 Introduction to object oriented constructor, accessor and mutator methods.
+
+## Week 3 (January 31st and February 4th)
+
+Introduction to class and instance variables, equals() method, method overloading, relationships: association, composition.
