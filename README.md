@@ -13,3 +13,7 @@ Introduction to object oriented constructor, accessor and mutator methods.
 ## Week 3 (January 31st and February 4th)
 
 Introduction to class and instance variables, equals() method, method overloading, relationships: association, composition.
+
+## Week 4 (February 7th and 11th)
+
+Introduction to class inheritance, method refinement and replacement.
